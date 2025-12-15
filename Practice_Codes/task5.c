@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Divisibility checker
 int main(){
     int a;
     printf("Kindly enter a number:");
@@ -12,4 +12,5 @@ int main(){
         printf("%d is not divisible by 7", a);
     }
     return 0;
+
 }
